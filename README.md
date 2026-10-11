@@ -18,7 +18,7 @@ A weather station recorded daily temperature, humidity and rainfall for August a
 ## 3. How to Run the Program
 
 ```shell
-pip install -r requirements.txt
+pip install pandas numpy matplotlib
 python main.py
 ```
 
@@ -63,7 +63,6 @@ Summary report:
 ieee-weather-pattern-analyzer/
 ├── README.md
 ├── main.py
-├── requirements.txt
 ├── data/
 │   ├── daily_weather.csv
 │   └── monthly_targets.csv
